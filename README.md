@@ -2,17 +2,16 @@
 
 ### 基本信息
 ***
-<div style="display: flex; align-items: center;">
-   <div style="flex: 1">
+
+<span style="display: flex; align-items: center;">
+   <span style="flex: 1">
       姓名：刘永生 男<br/>
       年龄：31岁（1991年3月）<br/>
       学历：大专 软件技术（测试）<br/>
       现居住地：河南省郑州市<br/>
-   </div>
-   <div>
-      <img src="avatar.jpg"/>
-   </div>
-</div>
+   </span>
+   <img src="avatar.jpg"/>
+</span>
 
 ### 自我介绍
 ***
